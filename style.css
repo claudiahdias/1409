@@ -5,7 +5,7 @@
 body{
     margin: 0px;
     padding: 0px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: "Trirong", serif;
     font-size: 20px;
     color: white;
     font-style: italic;
@@ -14,7 +14,7 @@ body{
 
 
 .topo{
-    background-color: rgb(18, 63, 131);
+    background-color: #27374D;
     font-size: 30px;
     text-align: center;
     font-family: "Trirong", serif;
@@ -22,3 +22,24 @@ body{
     padding: 25px;
     
 }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #526D82;
+    
+    
+  }
+li {
+    display: inline;
+    margin: 0 170px
+  }
+li a{
+    text-decoration: none;
+    color:white
+}
+li a:hover {
+    background-color: #555;
+    color: white;
+  }
