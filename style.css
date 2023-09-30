@@ -19,7 +19,7 @@ body{
     text-align: center;
     font-family: "Trirong", serif;
     color: white;
-    padding: 25px;
+    padding: 8px;
     
 }
 
@@ -43,4 +43,25 @@ li a:hover {
     background-color: #555;
     color: white;
   }
+
+.pinhal{
+    float: left;
+    width: 50%;
+    height: 400px;
+}
+
+.p1{
+    background-color: rgb(76, 98, 112);
+    text-align: center;
+    
+    
+
+}
+.p2{
+    
+}
+
+
+
   
+
